@@ -1,5 +1,5 @@
 
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+<img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" onclick=open("https://youtube.com/@LinuxGuyNepal) />
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinuxNerdBTW) -->
