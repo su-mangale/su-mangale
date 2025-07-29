@@ -17,10 +17,9 @@
 </p>
 
 <!-- GitHub Stats -->
+<!-- Redesigned GitHub Stats -->
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-mangale&layout=compact&theme=default" alt="Top Languages"/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=su-mangale&show_icons=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=su-mangale&show_icons=true&theme=tokyonight&border_radius=10&border_color=30363d" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-mangale&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&border_color=30363d" alt="Top Languages" height="180"/>
 </p>
+
