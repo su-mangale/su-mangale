@@ -22,12 +22,6 @@
   
   <br>
   
-  <!-- Kubernetes-themed Stats Cards -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=su-mangale&show_icons=true&theme=default&border_radius=10&hide_border=true&bg_color=ffffff&title_color=326CE5&text_color=2C3E50&icon_color=4ECDC4&custom_title=Platform%20Engineering%20Stats" alt="GitHub Stats" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=su-mangale&layout=compact&langs_count=8&theme=default&border_radius=10&hide_border=true&bg_color=ffffff&title_color=326CE5&text_color=2C3E50&custom_title=Infrastructure%20Languages" alt="Top Languages" height="180"/>
-  </p>
-  
   <!-- GitHub Streak Stats with Cloud Theme -->
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=su-mangale&theme=default&hide_border=true&background=ffffff&stroke=326CE5&ring=4ECDC4&fire=FF6B6B&currStreakNum=2C3E50&sideNums=2C3E50&currStreakLabel=326CE5&sideLabels=326CE5&dates=2C3E50" alt="Cloud-Native Contribution Streak" height="180"/>
