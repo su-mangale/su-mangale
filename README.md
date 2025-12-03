@@ -1,6 +1,6 @@
 <!-- Professional Header with Cloud-Native Theme -->
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,17&height=300&section=header&text=☸️%20Platform%20Engineer%20☁️&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Su%20Mangale%20-%20Kubernetes%20%7C%20Cloud-Native%20%7C%20DevOps&descAlignY=51&descAlign=50"/>
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,17&height=300&section=header&text=☸️%20Platform%20Engineer%20☁️&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Kubernetes%20%7C%20Cloud-Native%20%7C%20DevOps&descAlignY=51&descAlign=50"/>
 </div>
 
 <!-- GitHub Stats Section with Cloud-Native Theme -->
