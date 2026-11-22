@@ -3,6 +3,21 @@
   <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,17&height=300&section=header&text=☸️%20Platform%20Engineer%20☁️&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%20Kubernetes%20%7C%20Cloud-Native%20%7C%20DevOps&descAlignY=51&descAlign=50"/>
 </div>
 
+<!-- Verified Certifications Section -->
+<div align="center">
+  <h2>🏅 Verified Cloud-Native Certifications</h2>
+  <p>
+    <a href="https://certdirectory.io/profile/mangale-lopchan?utm_source=github&utm_medium=readme">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/mangale-lopchan.svg?style=card&theme=dark">
+        <img alt="Mangale Lopchan on CertDirectory" src="https://certdirectory.io/badge/mangale-lopchan.svg?style=card">
+      </picture>
+    </a>
+  </p>
+</div>
+
+<br>
+
 <!-- GitHub Stats Section with Cloud-Native Theme -->
 <div align="center">
   <h2>📊 Platform Engineering Metrics</h2>
@@ -82,5 +97,3 @@
 <div align="center">
   <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30,5,17&height=200&section=footer&animation=twinkling"/>
 </div>
-
-
