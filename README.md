@@ -30,9 +30,6 @@
     <a href="https://github.com/su-mangale?tab=followers">
       <img alt="Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/su-mangale?color=4ECDC4&labelColor=2C5F5D&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
     </a>
-    <a href="https://user-badge.committers.top/nepal/su-mangale">
-      <img alt="Committers Top Badge" title="Top GitHub Contributors from Nepal" src="https://user-badge.committers.top/nepal/su-mangale.svg" style="height:28px; vertical-align:middle;"/>
-    </a>
   </p>
   
   <br>
